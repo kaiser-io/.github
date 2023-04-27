@@ -1,3 +1,3 @@
-# The Amazing Kaiser.
+# Kaiser 
 
-This readme is added temporary.
+![Alt text](./assets/kaiser.png)
