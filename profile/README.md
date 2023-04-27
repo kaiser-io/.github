@@ -1,3 +1,3 @@
 # Kaiser 
 
-![Alt text](./assets/kaiser.png)
+![Alt text](./assets/kaiser-new.png)
